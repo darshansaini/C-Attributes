@@ -1,0 +1,14 @@
+C:\Users\darsh\OneDrive\Desktop\Work_palace\C#Attributes\C#Attributes\bin\Debug\net8.0\C#Attributes.exe
+C:\Users\darsh\OneDrive\Desktop\Work_palace\C#Attributes\C#Attributes\bin\Debug\net8.0\C#Attributes.deps.json
+C:\Users\darsh\OneDrive\Desktop\Work_palace\C#Attributes\C#Attributes\bin\Debug\net8.0\C#Attributes.runtimeconfig.json
+C:\Users\darsh\OneDrive\Desktop\Work_palace\C#Attributes\C#Attributes\bin\Debug\net8.0\C#Attributes.dll
+C:\Users\darsh\OneDrive\Desktop\Work_palace\C#Attributes\C#Attributes\bin\Debug\net8.0\C#Attributes.pdb
+C:\Users\darsh\OneDrive\Desktop\Work_palace\C#Attributes\C#Attributes\obj\Debug\net8.0\C#Attributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darsh\OneDrive\Desktop\Work_palace\C#Attributes\C#Attributes\obj\Debug\net8.0\C#Attributes.AssemblyInfoInputs.cache
+C:\Users\darsh\OneDrive\Desktop\Work_palace\C#Attributes\C#Attributes\obj\Debug\net8.0\C#Attributes.AssemblyInfo.cs
+C:\Users\darsh\OneDrive\Desktop\Work_palace\C#Attributes\C#Attributes\obj\Debug\net8.0\C#Attributes.csproj.CoreCompileInputs.cache
+C:\Users\darsh\OneDrive\Desktop\Work_palace\C#Attributes\C#Attributes\obj\Debug\net8.0\C#Attributes.dll
+C:\Users\darsh\OneDrive\Desktop\Work_palace\C#Attributes\C#Attributes\obj\Debug\net8.0\refint\C#Attributes.dll
+C:\Users\darsh\OneDrive\Desktop\Work_palace\C#Attributes\C#Attributes\obj\Debug\net8.0\C#Attributes.pdb
+C:\Users\darsh\OneDrive\Desktop\Work_palace\C#Attributes\C#Attributes\obj\Debug\net8.0\C#Attributes.genruntimeconfig.cache
+C:\Users\darsh\OneDrive\Desktop\Work_palace\C#Attributes\C#Attributes\obj\Debug\net8.0\ref\C#Attributes.dll
